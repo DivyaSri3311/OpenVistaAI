@@ -19,7 +19,7 @@ Learners often drop out because:
 
 ## 💡 Solution
 
-PathPilot AI introduces two core innovations:
+OpenVista AI introduces two core innovations:
 
 ### 1️⃣ Anti-Roadmap (Churn Zones)
 
@@ -112,7 +112,7 @@ Frontend → API Gateway → Application Services → AI Layer → Data Layer
 
 ---
 
-## 🏆 Why PathPilot AI is Unique
+## 🏆 Why OpenVista AI is Unique
 
 * Shows where people fail, not just what to study
 * Lets users experience jobs before committing
@@ -120,44 +120,11 @@ Frontend → API Gateway → Application Services → AI Layer → Data Layer
 
 ---
 
-## 🚀 Getting Started (Development)
+## 👥 CerebroX Team
 
-```bash
-# Clone repository
-git clone https://github.com/your-username/pathpilot-ai.git
+Divya Srivastava
+Tejasv Singh Kondal 
+Ahmed Yusuf Khan
 
-# Backend
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
 
-# Frontend
-cd frontend
-npm install
-npm start
-```
-
----
-
-## 📌 Future Enhancements
-
-* Multilingual support
-* Mobile app
-* Mentor matching
-* Internship recommendations
-
----
-
-## 👥 Team
-
-Hackathon Team Project
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-**PathPilot AI – Know the Hard Parts. Try the Job. Choose Smarter.**
+**OpenVista AI – Know the Hard Parts. Try the Job. Choose Smarter.**
